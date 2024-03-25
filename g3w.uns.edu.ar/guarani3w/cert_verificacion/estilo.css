@@ -1,0 +1,40 @@
+.azul{
+    background-color: #D9EDF7;
+    border: 1px solid #BCE8F1;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+   
+}
+
+.azul h1{
+    font-size: 20px;
+}
+
+.verific{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-top: 2em;
+    
+}
+
+.verific p{
+    font-size: 15px;
+    color: white;
+    background-color: #78BBCE;
+    border: 1px solid #70A2B1;
+    border-radius: 3px;
+    padding: 0.3em 1em;
+    cursor:pointer;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.flex img{
+    height: 50em;
+}

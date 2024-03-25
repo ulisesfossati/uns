@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:48:18	26/26	---M--	200	added ('OK')	text/plain	etag:%225bab9993-1a%22	https://g3w.uns.edu.ar/robots.txt		(from )
+18:48:18	6670/6670	---MCZ	200	added ('OK')	text/html	date:Mon,%2025%20Mar%202024%2021:48:22%20GMT	https://g3w.uns.edu.ar/guarani3w/cert_verificacion/?v=eda83f31ab3d1e4f2e89c01cf905f4fecc63bd0b	C:/My%20Web%20Sites/uns%202/g3w.uns.edu.ar/guarani3w/cert_verificacion/index0c23.html	(from )
