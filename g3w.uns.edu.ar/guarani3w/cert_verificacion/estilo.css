@@ -38,3 +38,22 @@
 .flex img{
     height: 50em;
 }
+
+h1.pdf{
+    color: #8D8D8D;
+    font-size: 20px;
+}
+
+.segundo{
+    background-color: #D9EDF7;
+    border: 1px solid #BCE8F1;
+    border-radius: 3px;
+    padding: 0.5em 1em;
+   
+}
+
+.segundo p{
+    color: black;
+    font-size: 15px;
+    font-style: italic;
+}
